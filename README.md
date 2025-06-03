@@ -10,7 +10,7 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Algorithm: Step 1: Define Scope and Objectives
+## Algorithm: Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 1.2 Set the target audience level (e.g., students, professionals)
 1.3 Draft a list of core topics to cover
@@ -59,11 +59,11 @@ Step 7: Finalize and Export
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
 
-# Output
-# Abstract
+## Output
+## Abstract
 Generative AI, powered by architectures like Transformers and diffusion models, has revolutionized how machines create text, images, and code. This report explains the core principles of Generative AI, its architectures (e.g., GANs, Transformers), applications, ethical challenges, and the impact of scaling on Large Language Models (LLMs). Designed for students and professionals, it balances technical depth with accessibility.
 
-# Table of Contents
+## Table of Contents
 Introduction
 
 AI and Machine Learning Basics
@@ -88,21 +88,21 @@ Conclusion
 
 References
 
-# 1. Introduction
+## 1. Introduction
 Generative AI refers to algorithms that create new content—such as text, images, or music—by learning patterns from existing data. Unlike traditional AI systems that classify or predict, generative models like GPT-4 and DALL-E produce original outputs. This report explores their architectures, societal impacts, and future directions.
 
-# 2. AI and Machine Learning Basics
+## 2. AI and Machine Learning Basics
 Artificial Intelligence (AI): Systems that mimic human intelligence (e.g., problem-solving, decision-making).
 
 Machine Learning (ML): A subset of AI where systems learn from data without explicit programming.
 
-# Key Differences:
+## Key Differences:
 
 Discriminative Models: Predict labels (e.g., spam detection).
 
 Generative Models: Create new data (e.g., GPT-4 writing an essay).
 
-# 3. What is Generative AI?
+## 3. What is Generative AI?
 Generative AI learns the probability distribution of training data to generate new samples.
 
 Core Concepts:
@@ -111,7 +111,7 @@ Latent Space: A compressed representation of data (e.g., images encoded as vecto
 
 Autoregressive Generation: Producing outputs sequentially (e.g., GPT-3 generating text word-by-word).
 
-# 4. Generative AI Architectures
+## 4. Generative AI Architectures
 4.1 Generative Adversarial Networks (GANs)
 Components:
 
@@ -145,7 +145,7 @@ Decoder (e.g., GPT-4): Generates text.
 Transformer Architecture
 Figure 1: Transformer Architecture (Source: Vaswani et al., 2017)
 
-# 5. Large Language Models (LLMs)
+## 5. Large Language Models (LLMs)
 LLMs like GPT-4 are transformer-based models trained on vast text corpora.
 
 Key Features:
@@ -160,7 +160,7 @@ GPT-4: Text generation, code completion.
 
 PaLM: Multilingual reasoning.
 
-# 6. Training LLMs
+## 6. Training LLMs
 6.1 Pre-training
 Data: Web text, books, code (e.g., Common Crawl, GitHub).
 
@@ -174,18 +174,18 @@ Compute Cost: Training GPT-3 cost ~$4.6 million.
 
 Bias: Models inherit biases from training data.
 
-# 7. Applications
+## 7. Applications
 Domain	Use Case	Example
 Healthcare	Drug discovery	AlphaFold
 Entertainment	Game asset generation	NVIDIA Canvas
 Education	Personalized tutoring	Khan Academy’s Khanmigo
 Business	Marketing copywriting	Jasper.ai
-# 8. Ethical Challenges
+## 8. Ethical Challenges
 Bias: LLMs may perpetuate stereotypes (e.g., gender bias in hiring tools).
 
 Misinformation: Deepfakes and fake news.
 
 Environmental Impact: Training GPT-3 emitted 552 tons of CO₂.
 
-# Result
+## Result
 A foundational guide for understanding Generative AI and LLMs, suitable for academic or industrial use.
